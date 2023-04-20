@@ -10,3 +10,7 @@
 
 >Overall, data analytics plays a crucial role in helping Uber to set prices that are both competitive for riders and profitable for the company.
 
+DATASET:
+For this project we are taken the dataset from kaggle in which there are 57 columns and approx 6 lakh rows and the file is in csv format. you can view or download the dataset through this link: https://www.kaggle.com/brllrb/uber-and-lyft-dataset-boston-ma
+
+
