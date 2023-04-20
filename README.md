@@ -9,3 +9,4 @@
 >In addition to machine learning algorithms, Uber also uses real-time data from its app to adjust prices dynamically. For example, if there is a sudden surge in demand for rides in a particular area, Uber may increase the price of rides in that area to encourage more drivers to go there and pick up passengers.
 
 >Overall, data analytics plays a crucial role in helping Uber to set prices that are both competitive for riders and profitable for the company.
+
